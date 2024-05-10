@@ -1,12 +1,12 @@
 body {
-	 background-image: url("images/b.jpeg");
-	 font-family: 'Caveat';
+	 background-image: url("background.webp");
+	 font-family: 'Optima';
 	
 	
 
 }
 h2 {
-	   font-family: 'Caveat';
+	   font-family: 'Optima';
 font-size: 26px;
 	line-height: 1.6;
 	letter-spacing: 2px;

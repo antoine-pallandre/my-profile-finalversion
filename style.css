@@ -164,13 +164,13 @@ font-size: 30px;
 }
 
 .btn-blue {
-	background-color:#b5838d;
+	background-color:#f7e3b7;
 	color : white;
 	padding : 15px 20px;
 	border-radius: 4px;
 }
 
 .btn-blue:hover {
-	background-color:#FFB3C6;
+	background-color:#f7e3b7;
 	color : white;
 }
